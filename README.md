@@ -57,7 +57,9 @@ bash
 Copy code
 ./lab1 -->
 **Contributing**
+
 If you find any issues or have suggestions for improvement, feel free to create a pull request or open an issue in this repository.
 
 **License**
+
 This repository is licensed under the MIT License. See the _LICENSE_ file for more information.
