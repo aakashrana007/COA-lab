@@ -1,8 +1,8 @@
-### COA-lab
+# COA-lab
 
 This repository contains all the programs developed and executed during the Computer Organization and Architecture (COA) lab sessions. Each lab session focuses on a fundamental concept related to binary arithmetic and its applications in computer systems.
 
-# Lab Sessions
+## Lab Sessions
 **Lab 1: Binary to Decimal and Decimal to Binary**
 This lab session covers the conversion between binary and decimal number systems. It includes:
 
